@@ -4,7 +4,13 @@ title: About
 permalink: /about/
 ---
 
-My name is Brady Smith and although I've been programming since elementary school, I've only recently started to pursue the field deeply in the last few years. I'm hoping this blog can be a record of my success and failures as a new dev.
+<div class="about-profile-picture-wrapper">
+    <img src="/assets/images/profile_headshot.jpg" class="about-profile-picture-image">
+</div>
+
+<hr class="about-profile-picture-hr">
+
+Are round avatars still cool? I'm Brady Smith and although I've been programming since elementary school, I've only recently started to pursue the field deeply in the last few years. I'm hoping this blog can be a record of my success and failures as a new dev.
 
 Currently I'm working as an developer in Saskatoon, Saskatchewan while finishing up my final year of Computer Science studies.
 

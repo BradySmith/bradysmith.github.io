@@ -247,3 +247,32 @@
         }
     }
 }
+
+.about-profile-picture-wrapper {
+  width: 192px;
+  height: 192px;
+  border-radius: 96px;
+  -webkit-border-radius: 96px;
+  -moz-border-radius: 96px;
+  background: url(/assets/images/profile_headshot.jpg) no-repeat;
+  margin: 0 auto;
+}
+
+.about-profile-picture-image {
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.about-profile-picture-hr {
+  padding-left: 0 150px;
+  width: 50%;
+  height: 1px;
+  border: 0 none;
+  margin: 30px auto;
+  color: $hr-grey;
+  background-color: $hr-grey;
+}
+
+
+
+
