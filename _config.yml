@@ -2,7 +2,7 @@
 title: Brady Smith
 email: brady_smith [at] outlook.com 
 description: > # this means to ignore newlines until "baseurl:"
-    Forever a intern. My record of personal successes and failures when it comes to development, the web and Computer Science.
+    Forever an intern. My record of personal successes and failures when it comes to development, the web and Computer Science.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: UnfamousBrady 
